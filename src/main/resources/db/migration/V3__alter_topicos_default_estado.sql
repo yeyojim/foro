@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+ALTER COLUMN estado_topico SET DEFAULT TRUE;
